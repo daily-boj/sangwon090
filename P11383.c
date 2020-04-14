@@ -5,9 +5,8 @@ int main() {
     int n, m;
     scanf("%d %d", &n, &m);
 
-    char **a, **b;
-    a = (char**) malloc(sizeof(char*) * n);
-    b = (char**) malloc(sizeof(char*) * n);
+    char a = (char**) malloc(sizeof(char*) * n);
+    char b = (char**) malloc(sizeof(char*) * n);
 
     for(int i=0; i<n; i++) {
         a[i] = malloc(sizeof(char) * m + 1);
