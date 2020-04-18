@@ -12,3 +12,4 @@ Newbie™
 | 2875  | 대회 or 인턴      | 2020-04-17 | [문제](http://noj.am/2875) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P2875.py) |
 | 9933  | 민균이의 비밀번호 | 2020-04-18 | [문제](http://noj.am/9933) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P9933.py) |
 | 9625  | BABBA             | 2020-04-19 | [문제](http://noj.am/9625) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P9625.py) |
+| 2606  | 바이러스          | 2020-04-19 | [문제](http://noj.am/2606) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P2606.cc)    |
