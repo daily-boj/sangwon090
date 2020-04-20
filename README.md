@@ -15,3 +15,4 @@ Newbie™
 | 2606  | 바이러스          | 2020-04-19 | [문제](http://noj.am/2606) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P2606.cc)    |
 | 4378  | 트ㅏㅊ;           | 2020-04-20 | [문제](http://noj.am/4378) <br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P4378.c)       |
 | 11725 | 트리의 부모 찾기  | 2020-04-20 | [문제](http://noj.am/11725)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P11725.cc)   |
+| 2644  | 촌수계산          | 2020-04-20 | [문제](http://noj.am/2644) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P2644.cc)    |
