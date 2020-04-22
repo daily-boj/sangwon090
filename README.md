@@ -21,3 +21,4 @@ Newbie™
 | 13301 | 타일 장식물                                      | 2020-04-22 | [문제](http://noj.am/13301)<br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P13301.c)      |
 | 2579  | 게단 오르기                                      | 2020-04-22 | [문제](http://noj.am/2579) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P2579.cc)    |
 | 2491  | 수열                                             | 2020-04-22 | [문제](http://noj.am/2491) <br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P2491.c)       |
+| 17247 | 택시 거리                                        | 2020-04-23 | [문제](http://noj.am/17247)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P17247.cc)   |
