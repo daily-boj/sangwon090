@@ -20,3 +20,4 @@ Newbie™
 | 15721 | 번데기                                           | 2020-04-21 | [문제](http://noj.am/15721)<br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P15721.c)      |
 | 13301 | 타일 장식물                                      | 2020-04-22 | [문제](http://noj.am/13301)<br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P13301.c)      |
 | 2579  | 게단 오르기                                      | 2020-04-22 | [문제](http://noj.am/2579) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P2579.cc)    |
+| 2491  | 수열                                             | 2020-04-22 | [문제](http://noj.am/2491) <br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P2491.c)       |
