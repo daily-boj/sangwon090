@@ -26,3 +26,4 @@ Newbie™
 | 11285 | 초성 중성 종성 2                                 | 2020-04-25 | [문제](http://noj.am/11285)<br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P11285.py) |
 | 1992  | 쿼드트리                                         | 2020-04-25 | [문제](http://noj.am/1992) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P1992.cc)     |
 | 10610 | 30                                               | 2020-04-27 | [문제](http://noj.am/10610)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P10610.cc)    |
+| 4732  | 조옮김                                           | 2020-04-28 | [문제](http://noj.am/4732) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P4732.py)     |
