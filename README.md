@@ -30,3 +30,4 @@ Newbie™
 | 2896  | 무알콜 칵테일                                    | 2020-04-29 | [문제](http://noj.am/2896) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P2896.py)     |
 | 10988 | 팰린드롬인지 확인하기                            | 2020-04-30 | [문제](http://noj.am/10988)<br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P10988.py)    |
 | 15649 | N과 M (1)                                        | 2020-04-30 | [문제](http://noj.am/15649)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P15649.cc)    |
+| 3709  | 레이저빔은 어디로                                | 2020-04-30 | [문제](http://noj.am/3709) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P3709.cc)     |
