@@ -26,8 +26,8 @@ Newbie™
 | 11285 | 초성 중성 종성 2                                 | 2020-04-25 | [문제](http://noj.am/11285)<br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P11285.py) |
 | 1992  | 쿼드트리                                         | 2020-04-25 | [문제](http://noj.am/1992) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P1992.cc)     |
 | 10610 | 30                                               | 2020-04-27 | [문제](http://noj.am/10610)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P10610.cc)    |
-| 4732  | 조옮김                                           | 2020-04-28 | [문제](http://noj.am/4732) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P4732.py)     |
-| 2896  | 무알콜 칵테일                                    | 2020-04-29 | [문제](http://noj.am/2896) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P2896.py)     |
-| 10988 | 팰린드롬인지 확인하기                            | 2020-04-30 | [문제](http://noj.am/10988)<br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P10988.py)    |
+| 4732  | 조옮김                                           | 2020-04-28 | [문제](http://noj.am/4732) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P4732.py)  |
+| 2896  | 무알콜 칵테일                                    | 2020-04-29 | [문제](http://noj.am/2896) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P2896.py)  |
+| 10988 | 팰린드롬인지 확인하기                            | 2020-04-30 | [문제](http://noj.am/10988)<br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P10988.py) |
 | 15649 | N과 M (1)                                        | 2020-04-30 | [문제](http://noj.am/15649)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P15649.cc)    |
 | 3709  | 레이저빔은 어디로                                | 2020-04-30 | [문제](http://noj.am/3709) <br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P3709.cc)     |
