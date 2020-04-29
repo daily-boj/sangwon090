@@ -28,3 +28,4 @@ Newbie™
 | 10610 | 30                                               | 2020-04-27 | [문제](http://noj.am/10610)<br>[코드 (C++)](https://github.com/daily-boj/sangwon090/blob/master/P10610.cc)    |
 | 4732  | 조옮김                                           | 2020-04-28 | [문제](http://noj.am/4732) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P4732.py)     |
 | 2896  | 무알콜 칵테일                                    | 2020-04-29 | [문제](http://noj.am/2896) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P2896.py)     |
+| 10988 | 팰린드롬인지 확인하기                            | 2020-04-30 | [문제](http://noj.am/10988)<br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P10988.py)    |
