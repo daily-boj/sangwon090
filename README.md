@@ -34,5 +34,5 @@ Newbie™
 | 2869  | 달팽이는 올라가고 싶다                           | 2020-05-01 | [문제](http://noj.am/2869) <br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P2869.c)        |
 | 2869  | 달팽이는 올라가고 싶다                           | 2020-05-01 | [문제](http://noj.am/2869) <br>[코드 (C)](https://github.com/daily-boj/sangwon090/blob/master/P2869.c)        |
 | 1041  | 주사위                                           | 2020-05-01 | [문제](http://noj.am/1041) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P1041.py)  |
-| 16433 | 주디와 당근농장                                  | 2020-05-02 | [문제](http://noj.am/16433)<br>[코드 (c)](https://github.com/daily-boj/sangwon090/blob/master/P16433.c)       |
-| 1564  | 팩토리얼5                                        | 2020-05-02 | [문제](http://noj.am/1564) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P1564.py)  |
+| 16433 | 주디와 당근농장                                  | 2020-05-04 | [문제](http://noj.am/16433)<br>[코드 (c)](https://github.com/daily-boj/sangwon090/blob/master/P16433.c)       |
+| 1564  | 팩토리얼5                                        | 2020-05-04 | [문제](http://noj.am/1564) <br>[코드 (Python)](https://github.com/daily-boj/sangwon090/blob/master/P1564.py)  |
